@@ -1,1 +1,1 @@
-prin("hello  tahseen")
+prin(hello  tahseen")
